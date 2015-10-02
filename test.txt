@@ -1,3 +1,5 @@
 
 
+<<<<<<< HEAD
 this is the master branch.
+>>>>>>> featureOne
